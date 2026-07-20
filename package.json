@@ -8,10 +8,12 @@
   "engines": {
     "sdk": ">=0.3.0"
   },
-	"files": ["123"],
+  "files": [
+    "123"
+  ],
   "git": {
     "repo": "https://github.com/Mars4325/rt654.git",
     "provider": "github",
-    "defaultBranch": "main"
+    "defaultBranch": "new_b"
   }
 }
