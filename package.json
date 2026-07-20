@@ -1,0 +1,11 @@
+{
+  "name": "rt654",
+  "publisher": "msagirov94",
+  "version": "0.0.1",
+  "displayName": "rt654",
+  "description": "rt654 extension",
+  "main": "src/extension.js",
+  "engines": {
+    "sdk": ">=0.3.0"
+  }
+}
